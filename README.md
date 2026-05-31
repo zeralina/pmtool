@@ -63,3 +63,8 @@ streamlit run frontend/app.py
 **RICE** = (Reach × Impact × Confidence) / Effort
 
 **ICE** = Impact × Confidence × Ease
+
+## Демо
+
+- **Приложение**: https://pmtool-dnsb2mlpfwuxgzeal5g4qg.streamlit.app
+- **API docs**: https://pmtool-production-5b83.up.railway.app/docs
