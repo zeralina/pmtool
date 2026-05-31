@@ -44,7 +44,7 @@ streamlit run frontend/app.py
 
 ## API
 
-[Документация доступна по адресу: https://pmtool-production-5b83.up.railway.app/docs
+Документация доступна по адресу: https://pmtool-production-5b83.up.railway.app/docs
 | Метод | Эндпоинт | Описание |
 |-------|----------|----------|
 | GET | /features | Все фичи |
