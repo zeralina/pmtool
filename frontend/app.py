@@ -3,7 +3,8 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-API_URL = "https://pmtool-production-5b83.up.railway.app"
+import os
+API_URL = os.getenv("API_URL", "https://pmtool-production-5b83.up.railway.app")
 
 st.set_page_config(page_title="Product Prioritization Tool", layout="wide")
 st.title("Product Prioritization Tool")
