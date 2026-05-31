@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://pmtool-production-5b83.up.railway.app"
 
 st.set_page_config(page_title="Product Prioritization Tool", layout="wide")
 st.title("Product Prioritization Tool")
