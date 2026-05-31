@@ -1,5 +1,7 @@
 from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
+import sys, os
+sys.path.append(os.path.dirname(__file__))
 import models, schemas, crud
 from database import engine, get_db
 

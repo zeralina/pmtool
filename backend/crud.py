@@ -1,4 +1,6 @@
 from sqlalchemy.orm import Session
+import sys, os
+sys.path.append(os.path.dirname(__file__))
 import models, schemas
 
 def calculate_scores(feature: schemas.FeatureCreate):
