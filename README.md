@@ -44,7 +44,7 @@ streamlit run frontend/app.py
 
 ## API
 
-Документация доступна по адресу: `http://127.0.0.1:8000/docs`
+[Документация доступна по адресу: `http://127.0.0.1:8000/docs`](https://pmtool-production-5b83.up.railway.app/docs)
 
 | Метод | Эндпоинт | Описание |
 |-------|----------|----------|
